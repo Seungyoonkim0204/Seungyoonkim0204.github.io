@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "김승윤"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : # path of avatar image, e.g. "/assets/images/20202 김승윤 C언어 블로그 로고.jpg"
   bio              : "행복한 컴퓨터교육 학생"
   location         : "대한민국, 서울"
   email            : "21-20202@hafs.hs.kr"
